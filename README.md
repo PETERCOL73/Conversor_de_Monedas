@@ -1,1 +1,2 @@
 # Conversor_de_Monedas
+El presente trabajo académico, que hace parte del primer desafío del curso Java Orientado a Objetos - auspiciado por ORACLE y ALURA LATAM; consiste en la elbaoración de un conversor de monedas con las siguientes caracteristicas: se hace consumo de API, se analiza la respuesta utilizando JSON, se filtra la moneda y el resultado se muestra a los usuarios através de la consola.
